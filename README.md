@@ -1,7 +1,6 @@
-<p dir="rtl">
 # یادگیری فریم ورک آيونیک
 ![آموزش آیونیک](https://github.com/mmdsharifi/IonicBook/blob/master/BookCover.jpg?raw=true)
-</div>
+
 
 <p dir="rtl">
 ترجمه کتاب Learning Ionic به زبان فارسی.
