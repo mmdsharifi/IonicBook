@@ -1,10 +1,11 @@
-<div dir="rtl">
+<p dir="rtl">
 # یادگیری فریم ورک آيونیک
 ![آموزش آیونیک](https://github.com/mmdsharifi/IonicBook/blob/master/BookCover.jpg?raw=true)
+</div>
 
-----
+<p dir="rtl">
 ترجمه کتاب Learning Ionic به زبان فارسی.
----
+</p>
 ## لطفا در بروز رسانی و اتمام پروژه همکاری کنید.
 ----
  
@@ -15,7 +16,8 @@
 * [@saeedsp](https://github.com/saeedsp "سعید پیری")
 
 # دانلود کتاب مرجع
+
   برای اینکه شما هم در ترجمه کتاب مشارکت کنید ابتدا کتاب زیر را دانلود کنید .سپس این مخزن را فورک بزنید و تغییرات خود را برای ما بر روی شاخه ای بفرستید
  
  [Learning Ionic](http://it-ebooks.info/book/6203/ "دانلود کتاب یادگیری آیونیک")
-</div>
+
