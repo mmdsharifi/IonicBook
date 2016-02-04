@@ -13,6 +13,7 @@
 * [@mmdsharifi](https://github.com/mmdsharifi "سعید پیری") 
 * [@rabbal](https://github.com/rabbal "غلامرضا ربال")
 * [@saeedsp](https://github.com/saeedsp "سعید پیری")
+* [@itman0101](https://github.com/itman0101 "اکبر فردی")
 
 # دانلود کتاب مرجع
 
